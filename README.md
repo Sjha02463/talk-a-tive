@@ -49,8 +49,8 @@ Babble is a full-stack chat application built using the MERN (MongoDB, Express.j
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ArchitKandu/Babble.git
-   cd babble
+   git clone https://github.com/Sjha02463/talk-a-tive.git
+   cd talk-a-tive
    ```
 
 2. Install the server dependencies:
@@ -76,7 +76,7 @@ Babble is a full-stack chat application built using the MERN (MongoDB, Express.j
 
    - Server:
      ```bash
-     cd Babble
+     cd talk-a-tive
      npm start
      ```
    - Client:
